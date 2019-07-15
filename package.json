@@ -1,0 +1,13 @@
+{
+  "name": "prettier-php-pre-commit",
+  "version": "0.1.0",
+  "description": "Prettier + plugin-php pre-commit hook",
+  "repository": "https://github.com/UCD-DART/prettier-plugin-php-pre-commit",
+  "author": "Jody Simpson",
+  "license": "GNU",
+  "private": null,
+  "dependencies": {
+    "@prettier/plugin-php": "https://github.com/prettier/plugin-php",
+    "prettier": "^1.18.2"
+  }
+}
