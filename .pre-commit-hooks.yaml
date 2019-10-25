@@ -1,6 +1,6 @@
 - id: prettier
   name: prettier
-  entry: prettier --write
+  entry: npx prettier -l
   language: node
   files: "\\.(\
     css|less|scss\
