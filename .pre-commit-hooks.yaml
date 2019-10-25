@@ -1,6 +1,6 @@
 - id: prettier
   name: prettier
-  entry: npx prettier -l
+  entry: npx prettier -c
   language: node
   files: "\\.(\
     css|less|scss\
